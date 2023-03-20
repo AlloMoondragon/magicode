@@ -1,0 +1,2 @@
+# magicode
+my firstest repositorium :)
